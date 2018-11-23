@@ -1,0 +1,19 @@
+h1 {
+  font: gotham-black;
+}
+
+p {
+  color: cyan;
+}
+img {
+  float: left;
+  resize:
+}
+.background {
+  width: 100%;
+  height: 100%;
+  background-image: url(images/markus-spiske-445253-unsplash.jpg);
+  background-size: cover;
+  position: relative;
+  overflow-y: auto;
+}
