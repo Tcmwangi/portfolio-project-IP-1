@@ -1,19 +1,11 @@
-h1 {
-  font: gotham-black;
-}
-
-p {
-  color: cyan;
-}
-img {
-  float: left;
-  resize:
-}
-.background {
-  width: 100%;
-  height: 100%;
-  background-image: url(images/profile-pic.jpg);
-  background-size: cover;
-  position: relative;
-  overflow-y: auto;
+body {
+  background-color: blue;
+  font-family: 'Gotham';
+  src: url('Gotham-Bold.eot');
+  src: url('Gotham-Bold.eot?#iefix') format('embedded-opentype'),
+      url('Gotham-Bold.woff2') format('woff2'),
+      url('Gotham-Bold.woff') format('woff'),
+      url('Gotham-Bold.svg#Gotham-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
 }
